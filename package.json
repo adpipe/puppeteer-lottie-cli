@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "commander": "^4.1.1",
-    "puppeteer-lottie": "github:adpipe/puppeteer-lottie"
+    "puppeteer-lottie": "github:adpipe/puppeteer-lottie#ad-1026-mov-support"
   }
 }
