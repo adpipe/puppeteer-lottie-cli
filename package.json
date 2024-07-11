@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "commander": "^4.1.1",
-    "puppeteer-lottie": "github:adpipe/puppeteer-lottie"
+    "puppeteer-lottie": "github:adpipe/puppeteer-lottie#06487ee3c4e9aaf399443f281a7058cd7c18d192"
   }
 }
