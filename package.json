@@ -14,7 +14,7 @@
     "test": "ava -v && standard"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=22.12"
   },
   "keywords": [
     "puppeteer",
@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "commander": "^4.1.1",
-    "puppeteer-lottie": "github:adpipe/puppeteer-lottie"
+    "puppeteer-lottie": "github:adpipe/puppeteer-lottie#d82f6d202ecf18cf9345fe02313be09253d702d4"
   }
 }
